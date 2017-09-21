@@ -1,0 +1,10 @@
+C:\Projects\brochure-site\Main\CoordinateSoftwareBrochureSite\CoordinateSoftwareBrochureSite\bin\Debug\netcoreapp1.1\CoordinateSoftwareBrochureSite.deps.json
+C:\Projects\brochure-site\Main\CoordinateSoftwareBrochureSite\CoordinateSoftwareBrochureSite\bin\Debug\netcoreapp1.1\CoordinateSoftwareBrochureSite.runtimeconfig.json
+C:\Projects\brochure-site\Main\CoordinateSoftwareBrochureSite\CoordinateSoftwareBrochureSite\bin\Debug\netcoreapp1.1\CoordinateSoftwareBrochureSite.runtimeconfig.dev.json
+C:\Projects\brochure-site\Main\CoordinateSoftwareBrochureSite\CoordinateSoftwareBrochureSite\bin\Debug\netcoreapp1.1\CoordinateSoftwareBrochureSite.dll
+C:\Projects\brochure-site\Main\CoordinateSoftwareBrochureSite\CoordinateSoftwareBrochureSite\bin\Debug\netcoreapp1.1\CoordinateSoftwareBrochureSite.pdb
+C:\Projects\brochure-site\Main\CoordinateSoftwareBrochureSite\CoordinateSoftwareBrochureSite\obj\Debug\netcoreapp1.1\CoordinateSoftwareBrochureSite.csprojResolveAssemblyReference.cache
+C:\Projects\brochure-site\Main\CoordinateSoftwareBrochureSite\CoordinateSoftwareBrochureSite\obj\Debug\netcoreapp1.1\CoordinateSoftwareBrochureSite.csproj.CoreCompileInputs.cache
+C:\Projects\brochure-site\Main\CoordinateSoftwareBrochureSite\CoordinateSoftwareBrochureSite\obj\Debug\netcoreapp1.1\CoordinateSoftwareBrochureSite.AssemblyInfo.cs
+C:\Projects\brochure-site\Main\CoordinateSoftwareBrochureSite\CoordinateSoftwareBrochureSite\obj\Debug\netcoreapp1.1\CoordinateSoftwareBrochureSite.dll
+C:\Projects\brochure-site\Main\CoordinateSoftwareBrochureSite\CoordinateSoftwareBrochureSite\obj\Debug\netcoreapp1.1\CoordinateSoftwareBrochureSite.pdb
